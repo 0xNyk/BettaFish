@@ -102,7 +102,6 @@ celerybeat.pid
 
 # ==== 环境和IDE ====
 # Environments
-.env
 .venv
 env/
 venv/
@@ -142,7 +141,6 @@ cython_debug/
 *.xml
 
 # Visual Studio Code
-.vscode/
 
 # macOS
 .DS_Store
@@ -354,3 +352,4 @@ CLAUDE.md
 findings.md
 progress.md
 task_plan.md
+config.bat
